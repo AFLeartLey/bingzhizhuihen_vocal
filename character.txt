@@ -1,1 +1,2 @@
 name=bingzhihuihen
+image=image.png
